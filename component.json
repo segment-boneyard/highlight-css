@@ -1,8 +1,8 @@
 {
   "name": "highlight-css",
-  "version": "0.0.0",
-  "repo": "ianstormtaylor/highlight-css",
-  "description": "A CSS syntax highlighting plugin.",
+  "version": "0.0.1",
+  "repo": "segmentio/highlight-css",
+  "description": "A Highlight plugin for CSS.",
   "keywords": [],
   "license": "MIT",
   "main": "lib/index.js",
@@ -12,6 +12,6 @@
   "dependencies": {},
   "development": {
     "component/assert": "*",
-    "ianstormtaylor/highlight": "*"
+    "segmentio/highlight": "*"
   }
 }
